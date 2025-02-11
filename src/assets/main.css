@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* 
+
+CODE COULEURS 
+
+Gris pâle: text-neutral-100  /  bg-neutral-100  /  rgb(245 245 245)
+Gris moyen: text-neutral-500  /  rgb(115 115 115)
+Gris fonçé: text-neutral-800  /  bg-neutral-800  /  rgb(38 38 38)
+Turquoise: text-teal-500  /  bg-teal-500  /  rgb(20 184 166)
+Jaune: text-yellow-600  /   bg-yellow-600  /  rgb(202 138 4)
+Rouge: text-red-800  /  bg-red-800  /  rgb(153 27 27)
+Violet: text-fuchsia-800  /  bg-fuchsia-800  /  rgb(134 25 143)
+Bleu: text-blue-400  /  bg-blue-400   /  rgb(96 165 250)
+
+Rétroaction formulaire:
+Bon: text-green-500   /  rgb(34 197 94)
+Mauvais: text-red-700  /  rgb(185 28 28)
+
+Icône demandes de stage:
+Fond Active: bg-yellow-600/[.5]    /  rgb(202 138 4 0.5)
+Icône Active: bg-yellow-800  /   rgb(133 77 14)
+Fond Inactive: bg-neutral-300  /   rgb(212 212 212)
+Icône Inactive: text-neutral-950  /  rgb(10 10 10)
+
+Icône offres de stage:
+Fond: bg-red-800/[0.95]  /  rgb(153 27 27 0.95)
+Icône: bg-red-800/[0.3]  /  rgb(153 27 27 0.3)
+
+Bouton Accepter:
+texte: text-green-600  /   rgb(22 163 74)
+Fond: bg-green-200  /   rgb(187 247 208)
+
+*/
